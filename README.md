@@ -1,6 +1,6 @@
-# Apress Source Code
+# Manning Source Code
 
-This repository accompanies *Pro ASP.NET Core 7* by Adam Freeman (Manning, 2022).
+This repository accompanies *Pro ASP.NET Core 7* by Adam Freeman (Manning, 2023).
 
 Download the files as a zip using the green button or clone the repository to your machine using Git.
 

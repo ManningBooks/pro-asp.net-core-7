@@ -27,4 +27,17 @@ replace the contents with the **elements** shown in listing 4.3.
 
 ---
 
+**Chapter 5**
+
+On page 85, this sentence:
+
+>   Notice that I had to make the same change to the result type declared by the GetProducts method because a Product?[] array cannot be used where a Product[] is expected.
+
+should be:
+
+> Notice that I had to make the same change to the result type declared by the GetProducts method because a **Product[]** array cannot be used where a **Product?[]** is expected.
+
+(Thanks to Phil Puglisi for reporting this problem)
+
+---
 

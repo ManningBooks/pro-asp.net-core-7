@@ -14,6 +14,17 @@ On page 60, the command used in listing 4.1 is deprecated. Use this command inst
 
 ---
 
+One page 61, this sentence refers to the wrong table:
+
+>   As noted in table 4.3, this template creates a project 
+with the minimum content required for ASP.NET Core development.
+
+The description of the projects is in Table 4.2.
+
+(Thanks to Sviridov Maksim for reporting this problem)
+
+---
+
 On page 63, this sentence:
 
 >   Enter demo.html in the Name field, click the Add button to create the new file, and replace the contents with the element shown in listing 4.3. 

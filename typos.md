@@ -52,3 +52,18 @@ should be:
 
 ---
 
+**Chapter 16**
+
+On page 428, the description of the HttpOnly property should be:
+
+ >This property specifies whether the browser will prevent 
+the cookie from being included in HTTP requests sent by 
+JavaScript code. This property should be set to **false** for 
+projects that use a JavaScript application whose requests 
+should be included in the session. The default value is 
+true.
+
+(Thanks to Jihed Halimi for reporting this problem)
+
+---
+
